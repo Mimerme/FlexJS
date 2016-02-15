@@ -9,3 +9,5 @@ Honestly pretty broken, but it works. When you type in the console nothing will 
 Great for generating quick small project sites.
 
 Do whatever you want with the code
+
+Needs module readline-sync
